@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @komfysach
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning reactjs, solidity, python and golang
-- 💞️ I’m looking to collaborate on interesting projects involving blockchain technology
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning reactjs, solidity, python, golang, docker & kubernetes
+- 💞️ I’m looking to collaborate on interesting projects involving decentralised technology
 - 📫 How to reach me sach@getkomfy.net
 
 <!---
