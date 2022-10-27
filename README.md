@@ -5,16 +5,14 @@
 
 ## I'm a Multimedia Designer, aspiring Full-Stack Machine Learning Engineer and BSc Student!
 
-- 🎨👨🏾‍💻 I love bridging the gap between design and data!
-- 🌱 I’m currently learning full-stack and machine learning engineering.
-- 👯 I’m looking to collaborate with other aspiring machine learning engineers on case studies.
-- 🥅 2021 Goals: Share more of what I do with the world🌍
-- ⚡ Fun fact: I love to keep active🏃🏾‍♂️, draw✍🏾 and make music🎹!
+- 🎨👨🏾‍💻 I love bridging the gap between design and development!
+- 🌱 I’m currently learning NextJs, QwikJS and Vue.
+- 🥅 2022 Goals: Completing 100 Leetcode problems.
+- ⚡ Fun fact: I love to keep active🏃🏾‍♂️ and make music🎹!
 
 ### Connect with me:
 
 [<img align="left" alt="getkomfy.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="komfysach | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sachin Lendis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="komfyko| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -24,13 +22,12 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.e0b2bd6155fa0bed8e24ff6b28f4a911.svg" />]
+[<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="TypeScript" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Golang" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/go/go.png" />]
-[<img align="left" alt="Java" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" />]
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png" />]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
