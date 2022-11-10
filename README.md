@@ -1,6 +1,6 @@
 ### Hi there, I'm Sachin - aka [komfySach][website] 👋
 
-[![Website](https://img.shields.io/website?label=getkomfy.net&style=for-the-badge&url=https%3A%2F%2Fgetkomfy.net)](https://getkomfy.net)
+[![Website](https://img.shields.io/website?label=getkomfy.net&style=for-the-badge&url=https%3A%2F%2Fgetkomfy.net)](https://sachinlendis.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/get_komfy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkomfysach&screen_name=getkomfy)
 
 ## I'm a UX/UI designer and full-stack developer!
@@ -47,7 +47,7 @@
 
 </details>
 
-[website]: https://getkomfy.net
+[website]: https://sachinlendis.dev
 <!-- [twitter]: https://twitter.com/get_komfy -->
 [instagram]: https://www.instagram.com/komfy_ko/
 [linkedin]: https://www.linkedin.com/in/sachin-lendis-879634129/
