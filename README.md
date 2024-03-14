@@ -3,11 +3,7 @@
 [![Website](https://img.shields.io/website?label=sachinlendis.dev&style=for-the-badge&url=https%3A%2F%2Fsachinlendis.dev)](https://sachinlendis.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/get_komfy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkomfysach&screen_name=getkomfy)
 
-## I'm a UX/UI designer and full-stack developer!
-
 - 🎨👨🏾‍💻 I love bridging the gap between design and development!
-- 🌱 I’m currently learning NextJs, QwikJS and Vue.
-- 🥅 2022 Goals: Completing 100 Leetcode problems.
 - ⚡ Fun fact: I love to keep active🏃🏾‍♂️ and make music🎹!
 
 ### Connect with me:
